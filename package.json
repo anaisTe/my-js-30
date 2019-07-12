@@ -1,0 +1,19 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "my Js 30",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "vanilla",
+    "js",
+    "no-library",
+    "css",
+    "html"
+  ],
+  "author": "Angie Tejada",
+  "license": "MIT"
+}
